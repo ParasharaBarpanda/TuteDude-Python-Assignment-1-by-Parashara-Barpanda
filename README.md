@@ -1,1 +1,1 @@
-# TuteDude-Python-Assignment-1-by-Parashara-Barpanda
+# TuteDude-Python-Assignment-by-Parashara-Barpanda
